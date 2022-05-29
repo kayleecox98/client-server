@@ -9,9 +9,8 @@ Installing gcc compiler:
 Compiling and Running a C++ program:
 * Open a new terminal window or cmd if you are on windows.
 * Change the directory to the directory in which you have your source.cpp file.
-* Now enter the following command to compile the source file using g++:
-  g++ -o <name-you-want-to-give> source.cpp
-* ./<name-of-program>
+* Now enter the following command to compile the source file using g++: g++ -o name-you-want-to-give source.cpp
+* ./name-of-program
 
 Using the server program:
 * Compile and run it with the C++ compiler of your choice.
